@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en"
+title = "KTH Foodtech"
+theme = "foodtech"
+
+[params]
+logo = "/images/logo-cropped.png"

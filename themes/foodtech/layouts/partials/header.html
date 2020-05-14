@@ -1,0 +1,19 @@
+<header class="container mx-auto px-4 pt-8 md:pt-16 flex items-center">
+  <h1 class="text-4xl text-gray-900 font-semibold">
+    <a href="{{ .Site.Home.RelPermalink }}">
+      <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }}" class="h-12">
+    </a>
+  </h1>
+
+  <p class="ml-auto pl-4 rounded-full bg-blue-800">
+    <span class="font-semibold text-white leading-none">
+      <span id="hamburger-count">0</span>
+      <span class="hidden sm:inline">burgers</span>
+    </span>
+
+    <!-- FontAwesome https://fontawesome.com/license -->
+    <svg aria-hidden="true" focusable="false" class="inline-block w-8 h-8 ml-1 p-1 rounded-full bg-blue-900 text-white" role="img" viewBox="0 0 512 512">
+      <path fill="currentColor" d="M464 256H48a48 48 0 0 0 0 96h416a48 48 0 0 0 0-96zm16 128H32a16 16 0 0 0-16 16v16a64 64 0 0 0 64 64h352a64 64 0 0 0 64-64v-16a16 16 0 0 0-16-16zM58.64 224h394.72c34.57 0 54.62-43.9 34.82-75.88C448 83.2 359.55 32.1 256 32c-103.54.1-192 51.2-232.18 116.11C4 180.09 24.07 224 58.64 224zM384 112a16 16 0 1 1-16 16 16 16 0 0 1 16-16zM256 80a16 16 0 1 1-16 16 16 16 0 0 1 16-16zm-128 32a16 16 0 1 1-16 16 16 16 0 0 1 16-16z"></path>
+    </svg>
+  </p>
+</header>
