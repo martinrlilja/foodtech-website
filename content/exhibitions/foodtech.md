@@ -44,4 +44,4 @@ Therefore, our mission is to:
 **Website:** http://kthfoodtech.se/ \
 **Email:** [info@kthfoodtech.se](mailto:info@kthfoodtech.se)
 
-{{< quiz name="Foodtech" >}}
+{{< quiz display="Foodtech Quiz" name="kthft" >}}
