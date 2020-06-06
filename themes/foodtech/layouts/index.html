@@ -6,12 +6,12 @@
     <div class="my-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
       {{ range where .Site.RegularPages "Type" "exhibitions" }}
         <a href="{{ .RelPermalink }}" class="flex flex-col bg-white shadow-sm hover:shadow-md transition-shadow duration-200">
-          <img src="{{ .Params.listImage }}" alt="">
-          <h2 class="my-2 px-4 text-2xl text-gray-800">
+          <img class="mt-auto" src="{{ .Params.listImage }}" alt="">
+          <h2 class="mt-auto px-4 text-2xl text-gray-800">
             {{ .Title }}
           </h2>
 
-          <div class="flex items-center mt-auto mb-4 px-4">
+          <div class="flex items-center mt-2 mb-4 px-4">
             {{ if .Params.schedule }}
             <p class="pr-2 text-gray-700">
               {{ .Params.schedule }}
