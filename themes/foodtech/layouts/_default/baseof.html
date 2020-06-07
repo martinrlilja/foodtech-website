@@ -21,8 +21,8 @@
     {{- partial "footer.html" . -}}
 
     <script type="module">
-      import { Quiz } from '{{ .Site.Params.quiz_endpoint }}/static/script.js';
-      let quiz = new Quiz({ url: '{{ .Site.Params.quiz_endpoint }}' });
+      import { Quiz } from '{{ .Site.Params.quizEndpoint }}/static/script.js';
+      let quiz = new Quiz({ url: '{{ .Site.Params.quizEndpoint }}' });
       quiz.mount(document.body);
     </script>
   </body>
