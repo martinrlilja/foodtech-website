@@ -19,8 +19,13 @@
     {{- partial "footer.html" . -}}
 
     <script type="module">
-      import { Quiz } from '{{ .Site.Params.quizEndpoint }}/static/script.js';
-      let quiz = new Quiz({ url: '{{ .Site.Params.quizEndpoint }}' });
+      import { Checkout, Quiz, QuizService } from '{{ .Site.Params.quizEndpoint }}/static/script.js';
+      const quizService = new QuizService({ url: '{{ .Site.Params.quizEndpoint }}' });
+
+      const checkout = new Checkout(quizService);
+      checkout.mount();
+
+      const quiz = new Quiz(quizService);
       quiz.mount(document.body);
     </script>
   </body>
