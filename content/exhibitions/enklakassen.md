@@ -6,7 +6,7 @@ draft = false
 headerImage = "/images/enklakassen-large.png"
 
 listImage = "/images/enklakassen-small.png"
-burgers = "60"
+burgers = 60
 +++
 
 Impact startup that simplifies sustainable eating habits. Our purpose is to catalyse

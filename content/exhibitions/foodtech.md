@@ -8,7 +8,7 @@ headerImage = "/images/foodtech-slogan.jpg"
 schedule = "Zoom webinar from 11:00 to 12:00"
 
 listImage = "/images/logo.png"
-burgers = "60"
+burgers = 60
 +++
 
 **We connect KTH students to the amazing and fast paced world of Foodtech.

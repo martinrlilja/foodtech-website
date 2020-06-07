@@ -5,3 +5,5 @@ theme = "foodtech"
 
 [params]
 logo = "/images/logo-cropped.png"
+
+quiz_endpoint = "http://localhost:3030"

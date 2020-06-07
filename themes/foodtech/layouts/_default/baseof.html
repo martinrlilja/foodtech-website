@@ -10,6 +10,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link https="https://unpkg.com" rel="preconnect">
+
     <link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet">
     <link href="/css/content.css" rel="stylesheet">
   </head>
@@ -19,8 +21,8 @@
     {{- partial "footer.html" . -}}
 
     <script type="module">
-      import { Quiz } from 'https://quiz.bearcat.dev/static/script.js';
-      let quiz = new Quiz({ url: 'https://quiz.bearcat.dev' });
+      import { Quiz } from '{{ .Site.Params.quiz_endpoint }}/static/script.js';
+      let quiz = new Quiz({ url: '{{ .Site.Params.quiz_endpoint }}' });
       quiz.mount(document.body);
     </script>
   </body>
