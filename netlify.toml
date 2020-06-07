@@ -1,0 +1,6 @@
+[[headers]]
+for = "/*"
+
+[headers.values]
+Link = "<https://unpkg.com>; rel=\"preconnect\""
+Link = "<https://quiz.bearcat.dev>; rel=\"preconnect\""
