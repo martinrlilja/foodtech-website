@@ -8,3 +8,5 @@ headerImage = "/images/logo-empty.jpg"
 listImage = "/images/logo-empty.png"
 burgers = 60
 +++
+
+{{< quiz display="Tebrito Quiz" name="tbrto" >}}
