@@ -1,14 +1,17 @@
 +++
 title = "Rscued"
+hideTitle = true
+
 date = 2020-06-08T18:47:04+02:00
 draft = false
 
-headerImage = "/images/rscued.svg"
+headerImage = "/images/rescued-photo-1.jpg"
 
 listImage = "/images/rscued.svg"
 burgers = 60
 +++
 
+<img class="w-64" src="/images/rscued.svg" alt="Rscued">
 
 30% of all fruits and vegetables produced are thrown away. That’s insane!
 
@@ -25,7 +28,7 @@ To work with rescued fruits is a challenge - it requires a lot of hands from our
 and understands the craftsmanship behind a really tasty juice and it also requires that we let the
 natural flow of fruits and vegetables control what we do. A good structure for taking care of fruit
 waste is lacking thus making it impossible for us to work with only rescued fruits. When we lack raw
-products we buy it from our friends in the business.  
+products we buy it from our friends in the business.
 
 When there’s no more fruit and veggies being thrown away we’ve reached our goal. Until then we
 promise that we will never stop fighting for a healthy and sustainable world.
