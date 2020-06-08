@@ -1,5 +1,7 @@
 +++
 title = "KTH Foodtech"
+
+schedule = "/images/schedule.png"
 +++
 
 Welcome to the KTH Foodtech Digital Fair!
@@ -22,6 +24,6 @@ out the companies, that’s totally fine too and you won’t need to check out.
 
 To ensure that your points are saved, avoid using incognito mode while in the competition!
 
-The results will be collected *June 12th, 18:00*, and you will know shortly thereafter if you are one of our lucky winners.
+The results will be collected *June 12th, 23:59*, and you will know shortly thereafter if you are one of our lucky winners.
 
 **Good luck, and may the odds be ever in your favour!**

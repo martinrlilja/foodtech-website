@@ -1,8 +1,11 @@
 {{ define "main" }}
   <main class="container mx-auto my-8 px-4">
-    <article class="max-w-3xl content">
-      {{ .Content }}
-    </article>
+    <div class="flex flex-col md:flex-row">
+      <article class="max-w-3xl content">
+        {{ .Content }}
+      </article>
+      <img src="{{ .Params.schedule }}" alt="" class="md:ml-2 mb-auto">
+    </div>
     <div class="my-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
       {{ range where .Site.RegularPages "Type" "exhibitions" }}
         <a href="{{ .RelPermalink }}" class="flex flex-col bg-white shadow-sm hover:shadow-md transition-shadow duration-200">
