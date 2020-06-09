@@ -2,6 +2,9 @@
 title = "KTH Foodtech"
 
 schedule = "/images/schedule.png"
+
+ctaHref = "https://kth-se.zoom.us/j/63446641817"
+ctaText = "Join the panel discussion"
 +++
 
 ## Welcome to the KTH Foodtech Digital Fair!
