@@ -13,6 +13,12 @@
           <h1 class="text-3xl text-gray-800 my-4">{{ .Title }}</h1>
         {{ end }}
 
+        {{ if .Params.schedule }}
+          <p class="pr-2 text-gray-700 italic">
+            {{ .Params.schedule }}
+          </p>
+        {{ end }}
+
         {{ .Content }}
       </div>
     </article>

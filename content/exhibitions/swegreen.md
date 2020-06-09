@@ -5,6 +5,7 @@ draft = false
 
 headerImage = "/images/swegreen-large.png"
 
+schedule = "Panel discussion Wednesday 17:30 - 18:30"
 listImage = "/images/swegreen-small.png"
 burgers = 60
 +++

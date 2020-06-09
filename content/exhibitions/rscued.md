@@ -35,4 +35,4 @@ Visit our website https://rscued.se/.
 
 ![// Frukträddarna](/images/frukträddarna.png)
 
-{{< wheel name="rscued" >}}
+{{< wheel name="rscued" image="/images/apple.png" >}}

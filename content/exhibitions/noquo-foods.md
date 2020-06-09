@@ -31,4 +31,6 @@ Initially Noquo Foods will sell plant-based cheese to foodservice providers in S
 similar model to Impossible Foods or Oatly. Down the road the aim is to create their own
 branded product line for retail.
 
+Visit our website http://noquofoods.com/.
+
 {{< quiz display="Noquo Foods Quiz" name="noquo" >}}

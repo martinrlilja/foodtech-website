@@ -5,7 +5,7 @@ draft = false
 
 headerImage = "/images/foodtech-slogan.jpg"
 
-schedule = "Zoom webinar from 11:00 to 12:00"
+schedule = "Panel discussion Wednesday 17:30 - 18:30"
 listImage = "/images/logo.png"
 burgers = 60
 +++
@@ -43,4 +43,4 @@ Therefore, our mission is to:
 **Website:** http://kthfoodtech.se/ \
 **Email:** [info@kthfoodtech.se](mailto:info@kthfoodtech.se)
 
-{{< wheel name="rscued" >}}
+{{< wheel name="kthft" image="/images/burger.png" >}}
