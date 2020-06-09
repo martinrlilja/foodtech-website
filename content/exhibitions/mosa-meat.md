@@ -22,4 +22,6 @@ cells by removing growth factors. Myotubes, a primitive muscle fibre, are create
 cells and these are then placed in a gel where muscles fibres can form. These muscle fibres
 then grow into small strands of muscle tissue which can then be layered to create meat.
 
+Visit our website https://www.mosameat.com/.
+
 {{< quiz display="Mosa Meat Quiz" name="mosa" >}}

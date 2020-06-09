@@ -16,4 +16,6 @@ the Sweden Foodtech scene at home and abroad through events and conferences. We 
 doors - locally and around the world. Our ambition is to build the next generation
 food-system based on tech, data, sustainability and health.
 
+Visit our website https://www.swedenfoodtech.com/.
+
 {{< quiz display="Sweden Foodtech Quiz" name="sweft" >}}

@@ -17,4 +17,6 @@ restaurants. This generates a control system for the researchers' need for knowl
 the business community's need for answers. They put theory into practice, into a real
 restaurant - probably the most sustainable restaurant in the world.
 
+Visit our website https://restauranglabbet.se/.
+
 {{< quiz display="Restauranglabbet Quiz" name="restl" >}}

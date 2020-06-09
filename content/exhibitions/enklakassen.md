@@ -14,4 +14,6 @@ sustainable transformation in the food system. Our current method (product) is a
 plant-based training programme driving the shift towards more plant-based food, targeting
 flexitarians.
 
+Visit our website https://enklakassen.se/.
+
 {{< quiz display="Enklakassen Quiz" name="enkla" >}}
