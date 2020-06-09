@@ -3,7 +3,7 @@ title = "Hillpop"
 date = 2020-06-08T17:45:33+02:00
 draft = false
 
-headerImage = "/images/hillpop-large.jpg"
+headerImage = "/images/hillpop-header.jpg"
 
 listImage = "/images/hillpop-large.jpg"
 burgers = 60
