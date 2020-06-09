@@ -4,7 +4,7 @@ title = "KTH Foodtech"
 schedule = "/images/schedule.png"
 +++
 
-Welcome to the KTH Foodtech Digital Fair!
+## Welcome to the KTH Foodtech Digital Fair!
 
 Participate in the competition and win prizes sponsored by the companies hosting the fair events!
 
@@ -22,7 +22,7 @@ score in the upper right corner. This is in order to get your total score regist
 to type in the redeem codes you receive by joining the fair events! If you’re just here to check
 out the companies, that’s totally fine too and you won’t need to check out.
 
-To ensure that your points are saved, avoid using incognito mode while in the competition!
+To ensure that your points are saved, *avoid using incognito mode* while in the competition!
 
 The results will be collected *June 12th, 23:59*, and you will know shortly thereafter if you are one of our lucky winners.
 

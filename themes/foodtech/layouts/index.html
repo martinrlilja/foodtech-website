@@ -1,10 +1,10 @@
 {{ define "main" }}
   <main class="container mx-auto my-8 px-4">
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
-      <article class="content lg:col-span-2">
+    <div class="grid md:grid-cols-2 lg:grid-cols-3" style="background: #9dd9d2">
+      <article class="content lg:col-span-2 p-2">
         {{ .Content }}
       </article>
-      <img src="{{ .Params.schedule }}" alt="">
+      <img src="{{ .Params.schedule }}" alt="" class="mt-auto">
     </div>
     <div class="my-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 random-list">
       {{ range where .Site.RegularPages "Type" "exhibitions" }}
