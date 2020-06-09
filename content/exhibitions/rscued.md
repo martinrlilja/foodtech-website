@@ -11,7 +11,7 @@ listImage = "/images/rscued.svg"
 burgers = 60
 +++
 
-<img class="w-64" src="/images/rscued.svg" alt="Rscued">
+<img class="w-64 h-16" src="/images/rscued.svg" alt="Rscued">
 
 30% of all fruits and vegetables produced are thrown away. That’s insane!
 
