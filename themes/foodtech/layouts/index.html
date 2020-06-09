@@ -6,7 +6,7 @@
       </article>
       <img src="{{ .Params.schedule }}" alt="">
     </div>
-    <div class="my-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2">
+    <div class="my-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-2 random-list">
       {{ range where .Site.RegularPages "Type" "exhibitions" }}
         <a href="{{ .RelPermalink }}" class="flex flex-col bg-white shadow-sm hover:shadow-md transition-shadow duration-200">
           <img class="m-auto p-2" src="{{ .Params.listImage }}" alt="">
@@ -33,4 +33,18 @@
       {{ end }}
     </div>
   </main>
+  <script>
+    (function() {
+      // Randomize the order of items.
+      // https://stackoverflow.com/a/11972692/1011428
+      var lists = document.querySelectorAll('.random-list');
+      for (var i = 0; i < lists.length; ++i) {
+        var list = lists[i];
+        for (var j = list.children.length; j >= 0; --j) {
+          var childIndex = Math.floor(Math.random() * j);
+          list.appendChild(list.children[childIndex]);
+        }
+      }
+    })();
+  </script>
 {{ end }}
