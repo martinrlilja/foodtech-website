@@ -36,3 +36,5 @@ promise that we will never stop fighting for a healthy and sustainable world.
 Visit our website https://rscued.se/.
 
 ![// Frukträddarna](/images/frukträddarna.png)
+
+{{< wheel name="rscued" >}}

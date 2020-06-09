@@ -19,7 +19,7 @@
     {{- partial "footer.html" . -}}
 
     <script type="module">
-      import { Checkout, Quiz, QuizService } from '{{ .Site.Params.quizEndpoint }}/static/script.js';
+      import { Checkout, Quiz, QuizService, Wheel } from '{{ .Site.Params.quizEndpoint }}/static/script.js';
       const quizService = new QuizService({ url: '{{ .Site.Params.quizEndpoint }}' });
 
       const checkout = new Checkout(quizService);
@@ -27,6 +27,9 @@
 
       const quiz = new Quiz(quizService);
       quiz.mount(document.body);
+
+      const wheel = new Wheel(quizService);
+      wheel.mount();
     </script>
   </body>
 </html>

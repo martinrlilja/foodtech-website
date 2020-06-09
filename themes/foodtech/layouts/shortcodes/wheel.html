@@ -1,1 +1,13 @@
-<div data-wheel-name="{{ .Get "name" }}"></div>
+<div class="flex justify-center my-8">
+  <div>
+    <canvas class="wheel" style="width: 300px; height: 300px;"></canvas>
+    <button data-wheel-name="{{ .Get "name" }}" class="block my-2 mx-auto px-6 py-4 rounded-lg border border-red-700 bg-transparent hover:bg-red-700 text-red-700 hover:text-white font-semibold text-xl text-center">
+      Spin the wheel!
+    </button>
+    <noscript>
+      <p class="text-center">
+        Spin the wheel is only supported with JavaScript enabled.
+      </p>
+    </noscript>
+  </div>
+</div>
