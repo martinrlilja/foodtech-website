@@ -15,6 +15,6 @@ advanced technology and agricultural competence, we contribute to the developmen
 resilience and sustainable food production with global ambitions. Our company was established
 in 2019 and provides fresh, nutrient rich, high-quality leafy greens, salad and herbs on a
 subscription basis to our customers, produced close to the consumers through centrally located,
-climate smart Urban Farms. Read more at www.swegreen.com.
+climate smart Urban Farms. Read more at [www.swegreen.com](https://www.swegreen.com).
 
-{{< quiz display="Swegreen Quiz" name="swegreen" >}}
+{{< quiz display="Swegreen Quiz" name="swegrn" >}}

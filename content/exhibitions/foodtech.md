@@ -6,7 +6,6 @@ draft = false
 headerImage = "/images/foodtech-slogan.jpg"
 
 schedule = "Zoom webinar from 11:00 to 12:00"
-
 listImage = "/images/logo.png"
 burgers = 60
 +++
@@ -24,22 +23,24 @@ solutions and Foodtech IoT solutions!
 
 We have identified the following:
 
- * Knowing about Foodtech is still pretty hipster
+ * Knowing about Foodtech is still pretty hipster.
  * Foodtech companies have a huge demand for talented students to help them
-    save the world
- * Students want to have a more sustainable diet and are very curious about more 
-    plant-based alternatives
+    save the world.
+ * Students want to have a more sustainable diet and are very curious about more
+    plant-based alternatives.
 
 Therefore, our mission is to:
 
- * Make Foodtech mainstream by educating the students of KTH how Foodtech 
-    could be the main driver to save the planet as well as show how exciting food 
-    technology is
- * Inspire students to be part of this incredibly fast growing and vibrant industry 
-    and match their talents with awesome Foodtech companies
- * Showcase how many different amazing plant-based food options we have 
-    today by letting the students get first-hand experience in order to make it 
+ * Make Foodtech mainstream by educating the students of KTH how Foodtech
+    could be the main driver to save the planet as well as show how exciting food
+    technology is.
+ * Inspire students to be part of this incredibly fast growing and vibrant industry
+    and match their talents with awesome Foodtech companies.
+ * Showcase how many different amazing plant-based food options we have
+    today by letting the students get first-hand experience in order to make it
     easier to make greener food choices.
 
 **Website:** http://kthfoodtech.se/ \
 **Email:** [info@kthfoodtech.se](mailto:info@kthfoodtech.se)
+
+{{< wheel name="rscued" >}}

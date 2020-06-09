@@ -6,7 +6,7 @@ draft = false
 headerImage = "/images/global-bugs-large.jpg"
 
 listImage = "/images/global-bugs-small.png"
-burgers = 60
+burgers = 80
 +++
 
 

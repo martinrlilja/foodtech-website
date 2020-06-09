@@ -6,7 +6,7 @@ draft = false
 headerImage = "/images/klimato.jpg"
 
 listImage = "/images/klimato.jpg"
-burgers = "60"
+burgers = 60
 +++
 
 Klimato offers a digital tool for restaurants to work with sustainability, by calculating,
