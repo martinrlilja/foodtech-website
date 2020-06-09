@@ -7,7 +7,9 @@
       <img class="mx-auto" src="{{ .Params.headerImage }}" alt="">
 
       <div class="content max-w-3xl m-auto">
-        {{ if not .Params.hideTitle }}
+        {{ if .Params.titleImage }}
+          <img class="w-64 py-4" src="{{ .Params.titleImage }}" alt="{{ .Title }}">
+        {{ else }}
           <h1 class="text-3xl text-gray-800 my-4">{{ .Title }}</h1>
         {{ end }}
 

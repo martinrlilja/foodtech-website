@@ -1,6 +1,6 @@
 +++
 title = "Rscued"
-hideTitle = true
+titleImage = "/images/rscued.svg"
 
 date = 2020-06-08T18:47:04+02:00
 draft = false
@@ -10,8 +10,6 @@ headerImage = "/images/rescued-photo-1.jpg"
 listImage = "/images/rscued.svg"
 burgers = 60
 +++
-
-<img class="w-64" src="/images/rscued.png" alt="Rscued">
 
 30% of all fruits and vegetables produced are thrown away. That’s insane!
 
