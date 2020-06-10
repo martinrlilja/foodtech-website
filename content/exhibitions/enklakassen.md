@@ -5,7 +5,7 @@ draft = false
 
 headerImage = "/images/enklakassen-large.png"
 
-schedule = "Webinar Thursday 18:00 - 18:30"
+schedule = "Webinar Thursday 17:30 - 18:00"
 listImage = "/images/enklakassen-small.png"
 burgers = 60
 +++
