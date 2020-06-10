@@ -14,4 +14,6 @@ Foodloopz works for the vision of *Zero Food Waste* in the food industry. We wor
 and help companies find creative solutions to the food waste issue. We also take initiative to
 collaborative projects where we can make an impact. Action is all that matters.
 
+Visit our website http://www.foodloopz.se/.
+
 {{< quiz display="Foodloopz Quiz" name="foodlz" >}}

@@ -23,4 +23,6 @@ today on a global scale.Currently we have a small team operating from Norrsken H
 Stockholm and an R&D-team based in Hyderabad, India. We continuously run internship programs
 but also accept students writing their master thesis in themes aligned with our mission.
 
+Visit our website https://www.innoscentia.com/.
+
 {{< quiz display="Innoscentia Quiz" name="inno" >}}
