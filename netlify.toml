@@ -6,3 +6,8 @@ Link = '''
 <https://unpkg.com>; rel="preconnect",
 <https://quiz.bearcat.dev>; rel="preconnect"
 '''
+
+[[redirects]]
+from = "https://wizardly-bose-3ca792.netlify.app/*"
+to = "https://digitalfair.kthfoodtech.se/:splat"
+status = 301
