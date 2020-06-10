@@ -3,7 +3,7 @@ title = "Klimato"
 date = "2020-05-04T18:09:11+02:00"
 draft = false
 
-headerImage = "/images/klimato.jpg"
+headerImage = "/images/klimato-header.png"
 
 schedule = "Webinar Thursday 17:30 - 18:00"
 listImage = "/images/klimato.jpg"
