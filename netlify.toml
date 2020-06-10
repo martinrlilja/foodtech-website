@@ -10,4 +10,5 @@ Link = '''
 [[redirects]]
 from = "https://wizardly-bose-3ca792.netlify.app/*"
 to = "https://digitalfair.kthfoodtech.se/:splat"
-status = "301!"
+force = true
+status = 301
