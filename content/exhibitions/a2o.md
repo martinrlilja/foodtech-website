@@ -3,7 +3,7 @@ title = "A₂O"
 date = 2020-06-09T21:05:08+02:00
 draft = false
 
-headerImage = "/images/a2o.png"
+headerImage = "/images/a2o-header.jpg"
 
 schedule = "Panel discussion Wednesday 17:30 - 18:30"
 listImage = "/images/a2o.png"

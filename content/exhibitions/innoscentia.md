@@ -3,10 +3,10 @@ title = "Innoscentia"
 date = 2020-06-09T21:13:57+02:00
 draft = false
 
-headerImage = ""
+headerImage = "/images/innoscentia-header.jpg"
 
 schedule = "Webinar Friday 12:15 - 12:45"
-listImage = ""
+listImage = "/images/innoscentia-logo.png"
 burgers = 80
 +++
 

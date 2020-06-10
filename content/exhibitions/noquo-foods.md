@@ -3,7 +3,7 @@ title = "Noquo Foods"
 date = 2020-06-09T20:58:29+02:00
 draft = false
 
-headerImage = "/images/noquofoods-large.png"
+headerImage = "/images/noquofoods-header.jpg"
 
 listImage = "/images/noquofoods-small.png"
 burgers = 60

@@ -3,7 +3,7 @@ title = "Sweden Foodtech"
 date = 2020-06-06T12:14:59+02:00
 draft = false
 
-headerImage = "/images/sweden-foodtech.png"
+headerImage = "/images/sweden-foodtech-header.jpg"
 
 schedule = "Panel discussion Wednesday 17:30 - 18:30"
 listImage = "/images/sweden-foodtech.png"

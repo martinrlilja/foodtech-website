@@ -3,7 +3,7 @@ title = "Swegreen"
 date = 2020-06-06T11:58:50+02:00
 draft = false
 
-headerImage = "/images/swegreen-large.png"
+headerImage = "/images/swegreen-header.jpg"
 
 schedule = "Panel discussion Wednesday 17:30 - 18:30"
 listImage = "/images/swegreen-small.png"

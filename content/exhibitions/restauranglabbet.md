@@ -3,7 +3,7 @@ title = "Restauranglabbet"
 date = 2020-06-09T20:32:01+02:00
 draft = false
 
-headerImage = "/images/restauranglabbet.png"
+headerImage = "/images/restauranglabbet-header.jpg"
 
 listImage = "/images/restauranglabbet.png"
 burgers = 60
