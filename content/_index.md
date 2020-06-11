@@ -3,8 +3,8 @@ title = "KTH Foodtech"
 
 schedule = "/images/schedule.png"
 
-ctaHref = "https://kth-se.zoom.us/j/63446641817"
-ctaText = "Join the panel discussion"
+ctaHref = "https://kth-se.zoom.us/j/62259975071"
+ctaText = "Join the Klimato Webinar"
 +++
 
 ## Welcome to the KTH Foodtech Digital Fair!
