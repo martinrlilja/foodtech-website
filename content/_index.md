@@ -3,8 +3,8 @@ title = "KTH Foodtech"
 
 schedule = "/images/schedule.png"
 
-ctaHref = "https://kth-se.zoom.us/j/69085650918"
-ctaText = "Join the Webinar"
+ctaHref = "/checkout"
+ctaText = "Redeem your points"
 +++
 
 ## Welcome to the KTH Foodtech Digital Fair!
@@ -30,5 +30,3 @@ To ensure that your points are saved, *avoid using incognito mode* while in the 
 The results will be collected *June 12th, 23:59*, and you will know shortly thereafter if you are one of our lucky winners.
 
 **Good luck, and may the odds be ever in your favour!**
-
-[Click here to redeem your points.](/checkout)
