@@ -3,7 +3,7 @@ title = "KTH Foodtech"
 
 schedule = "/images/schedule.png"
 
-ctaHref = "https://kth-se.zoom.us/j/62259975071"
+ctaHref = "https://kth-se.zoom.us/j/69085650918"
 ctaText = "Join the Webinar"
 +++
 
